@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 import React from "react";
 
 function NavBar() {
@@ -21,6 +14,4 @@ export default NavBar;
 
 
 
-/*const colorElements = colors.map((color) => {
-  return <li style={{ color: color }}>{color}</li>;
-});*/
+
